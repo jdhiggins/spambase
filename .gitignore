@@ -65,3 +65,10 @@ docs/_build/
 # PyBuilder
 target/
 
+
+.direnv/
+.envrc
+SMSSpamCollection
+readme
+smsspamcollection.zip
+spambase.data
